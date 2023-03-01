@@ -1,3 +1,5 @@
+// Testing VS Code Web
+
 const todos = ['collect chicken eggs', 'clean litter boxes']
 
 let input = prompt('What would you like todo?')
